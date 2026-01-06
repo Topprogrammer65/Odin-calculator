@@ -26,3 +26,15 @@ body{
     border: 1px solid orange;
     border-radius: 10px;
 }
+.clear btn {
+    position: absolute;
+    top: 100px;
+
+    
+}
+.screen{
+    width: 300px;
+    border: 1px solid black;
+    height: 75px;
+    
+}
