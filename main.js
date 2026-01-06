@@ -8,6 +8,6 @@ let numbers = document.querySelectorAll(".number");
 let operators = document.querySelectorAll(".operator");
     
 let previousScreen = document.querySelector(".previous");
-let previousScreen = document.querySelector(".previous");
+
 
 })
