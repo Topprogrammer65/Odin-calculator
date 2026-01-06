@@ -52,3 +52,9 @@ body{
     top: 30px;
     left: 640px;
 }
+previous{
+    font-size: 20px;
+}
+.current{
+    font-size: 30px;
+}   
